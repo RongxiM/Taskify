@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//RongxiM.github.io/taskify/static/css/main.8b062e3f.css",
+    "main.js": "/https//RongxiM.github.io/taskify/static/js/main.2c33dae6.js",
+    "index.html": "/https//RongxiM.github.io/taskify/index.html",
+    "main.8b062e3f.css.map": "/https//RongxiM.github.io/taskify/static/css/main.8b062e3f.css.map",
+    "main.2c33dae6.js.map": "/https//RongxiM.github.io/taskify/static/js/main.2c33dae6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b062e3f.css",
+    "static/js/main.2c33dae6.js"
+  ]
+}
